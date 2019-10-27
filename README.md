@@ -1,5 +1,5 @@
 # Gojek Register and Redeem Voucher 
-Gojek register using Indonesian or US mobile numbers and redeem voucher using command line.
+Register Gojek using Indonesian or US mobile numbers and redeem voucher using command line.
 
 ## Change Voucher Code
 Change "GOFOODBOBA07" in 'run.php' with voucher code that available.
