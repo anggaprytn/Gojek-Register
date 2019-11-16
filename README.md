@@ -14,8 +14,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## Thanks to 
-[Janu Yoga](https://github.com/osyduck/) - [SGB TEAM Reborn](https://sgbteam.id/)
-
 Nadiem Makarim - Minister of Education
 
 ## License
